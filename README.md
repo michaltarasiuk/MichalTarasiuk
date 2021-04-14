@@ -43,8 +43,7 @@ I am a Polish high school student and developer!!
 
 [<img align="left" alt="Firebase" width="20px" src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" />](https://firebase.google.com/?gclid=Cj0KCQiA1pyCBhCtARIsAHaY_5dzvq-NCSd0G_5PRhzhCTR9wQFWg9PkjasgpWJ4d82ivNopeI9pHpoaAjKcEALw_wcB&gclsrc=aw.ds)
 
-[<img align="left" alt="MySql" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>]
-(https://www.mysql.com)
+[<img align="left" alt="MySql" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
 
 <br />
 <br />
