@@ -1,6 +1,6 @@
 # Hi, I'm Michał
 
-I am a Polish high school student and developer!!
+I am a Polish high school student and front-end developer!!
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning everything
