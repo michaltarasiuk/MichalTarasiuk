@@ -70,4 +70,8 @@ I am a Polish high school student and front-end developer!!
 <br />
 <br />
 
-<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarasiukowski&layout=compact&hide=html&theme=algolia  " />
+
+### 📊 Some stats about me:
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Tarasiukowski&theme=github" width="100%">
+
