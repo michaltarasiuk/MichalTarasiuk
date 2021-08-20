@@ -1,13 +1,11 @@
-# Hi, I'm Michał
+```js
 
-I am a Polish high school student and front-end developer!!
+const readMePlease = {
+  greetings: "stranger 👋",
+  iAm: "Tarasiuk Michał",
+  usually: "building things",
+  currently: "neck deep in Next.js",
+  findMeOn: [{ discord: "Tarasiukowski#4788" }],
+};
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning everything
-- 📫 How to reach me: tarasiuk.michal03@gmail.com
-
-
-### 📊 Some stats about me:
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Tarasiukowski&theme=github" width="100%">
-
+```
