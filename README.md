@@ -5,7 +5,7 @@ const readMePlease = {
   iAm: "Tarasiuk Michał",
   usually: "building things",
   currently: "neck deep in Next.js",
-  findMeOn: [{ discord: "Tarasiukowski#4788" }],
+  findMeOn: [{ discord: "Mentał#4788" }],
 };
 
 ```
