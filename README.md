@@ -1,7 +1,7 @@
 ```js
 
 const readMePlease = {
-  greetings: "stranger 👋",
+  greetings: "hi, stranger",
   iAm: "Tarasiuk Michał",
   email: "tarasiuk.michal03@gmail.com",
   usually: "building things",
