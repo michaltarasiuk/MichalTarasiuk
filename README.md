@@ -1,6 +1,6 @@
 ```js
 
-const readMePlease = {
+const readme = {
   greetings: "hi, stranger",
   iAm: "Tarasiuk Michał",
   email: "tarasiuk.michal03@gmail.com",
