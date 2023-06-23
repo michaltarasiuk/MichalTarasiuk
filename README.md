@@ -1,12 +1,12 @@
-```js
+```ex
 
-const readMe = {
+read_me = %{
   greetings: "hi, stranger",
-  iAm: "Tarasiuk Michał",
+  i_am: "Tarasiuk Michał",
   email: "tarasiuk.michal03@gmail.com",
   usually: "building things",
   currently: "neck deep in elixir",
-  findMeOn: [{ discord: "Mentał#4788" }],
-};
+  find_me_on: [discord: "Mentał#4788"]
+}
 
 ```
