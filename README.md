@@ -1,4 +1,4 @@
-```ex
+```elixir
 
 read_me = %{
   greetings: "hi, stranger",
