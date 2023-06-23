@@ -6,7 +6,7 @@ const readMe = {
   email: "tarasiuk.michal03@gmail.com",
   usually: "building things",
   currently: "neck deep in elixir",
-  findMeOn: [{ discord: "Michał Tarasiuk#4788" }],
+  findMeOn: [{ discord: "Mentał#4788" }],
 };
 
 ```
