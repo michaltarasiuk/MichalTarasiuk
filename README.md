@@ -1,5 +1,3 @@
-![banner](./banner.png)
-
 ```elixir
 
 read_me = %{
