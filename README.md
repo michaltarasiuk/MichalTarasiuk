@@ -1,6 +1,6 @@
 ```go
 
-readMe := map[string]interface{}{
+readMe := map[string]any{
  "greetings": "hi, stranger",
  "iAm":       "Tarasiuk Michał",
  "email":     "tarasiuk.michal03@gmail.com",
