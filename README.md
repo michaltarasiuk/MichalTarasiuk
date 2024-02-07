@@ -2,7 +2,7 @@
 
 readMe := map[string]any{
  "greetings": "hi, stranger",
- "iAm":       "Tarasiuk Michał",
+ "iAm":       "Michał Tarasiuk",
  "email":     "tarasiuk.michal03@gmail.com",
  "usually":   "building things",
  "currently": "neck deep in GO",
